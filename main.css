@@ -1,0 +1,138 @@
+* {
+	font-family: 'Lato', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+}
+
+.flex-wrap {
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+}
+ 
+.main-section {
+	width: 100%;
+	max-width: 1470px;
+	position: relative;
+	background-image: url(../images/Salish_Lodge.jpg);
+	background-size: cover;
+	height: 300px;
+}
+
+.main-section article {
+	box-sizing: border-box;
+	background-color: #000;
+	background-color: rgba(0, 0, 0, 0.7);
+	position: absolute;
+	bottom: 0;
+	height: 40%;
+	width: 100%;
+	color: #fff;
+	padding: 1em;
+}
+
+.course_img {
+	width: 350px;
+	height: 200px;
+}
+
+.course_descr {
+	width: 350px;
+	height: auto;
+	text-align: justify;
+	text-justify: inter-word;
+ }
+
+p {
+	display: block;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+}
+
+h1 {
+	color: #48522f;
+}
+
+h2 {
+	color: #4e711d;
+}
+
+h3 {
+	color: #93c94d;
+}
+
+h4 {
+	color: #c5e752;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.margin-10 {
+	margin: 10px;
+}
+
+.max-width-1470 {
+	max-width: 1470px;
+}
+
+.title {
+	min-width: 265px;
+}
+
+.col-1 {
+	width: 8.33%;
+}
+
+.col-2 {
+	width: 16.66%;
+}
+
+.col-3 {
+	width: 25%;
+}
+
+.col-4 {
+	width: 33.33%;
+}
+
+.col-5 {
+	width: 41.66%;
+}
+
+.col-6 {
+	width: 50%;
+}
+
+.col-7 {
+	width: 58.33%;
+}
+
+.col-8 {
+	width: 66.66%;
+}
+
+.col-9 {
+	width: 75%;
+}
+
+.col-10 {
+	width: 83.33%;
+}
+
+.col-11 {
+	width: 61.66%;
+}
+
+.col-12 {
+	width: 100%;
+}
