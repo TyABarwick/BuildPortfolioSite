@@ -6,7 +6,7 @@ Project is to Build a Portfolio Site that is part of the Full Stack Web Develope
 The Portfolio website is built in HTML 5 and uses CSS.  The purpose of the site is to showcase the projects completed through the Udacity courses.  Given this is the 1st main project for the course, featured experiences are displayed in place.  This is a responsive site that can be viewed across many devices; notable IPAD, Nexus and Google Chrome.
 
 ## Content
-- test.html is the main page of the site
+- index.html is the main page of the site
 - 6 images
 1. Waterfall2.png
 2. Signature_Gem_75.png
