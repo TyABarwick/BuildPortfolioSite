@@ -37,12 +37,12 @@
 	padding: 1em;
 }
 
-.course_img {
-	width: 350px;
-	height: 200px;
+.course-img {
+	max-width: 100%;
+	height: auto;
 }
 
-.course_descr {
+.course-descr {
 	width: 350px;
 	height: auto;
 	text-align: justify;
